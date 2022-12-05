@@ -1,0 +1,44 @@
+.Main-Footer {
+  margin-top: 2rem;
+  color: white;
+  text-align: center;
+  .text-footer {
+    font-weight: 100;
+    margin: 2rem;
+    h4 {
+      font-weight: 100;
+      font-size: 34px;
+      margin: 0px;
+      .text-color {
+        color: #00e6e3;
+      }
+    }
+    p {
+      font-size: 28px;
+      margin: 0px;
+    }
+  }
+  .social-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    button {
+      width: 223px;
+      height: 56px;
+      font-weight: bold;
+      background: linear-gradient(270deg, #00e6e3 2.73%, #00ff68 100%);
+      border-radius: 30px;
+    }
+  }
+  hr {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 10rem;
+  }
+  .logo-footer{
+    height: 50px;
+    margin: 1rem
+  }
+}
