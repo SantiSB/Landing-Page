@@ -2,7 +2,7 @@
   "name": "landing-page-and-login",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SantiSB.github.io/Landing-Page/",
+  "homepage": "https://SantiSB.github.io/Landing-Page/#",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
